@@ -1,0 +1,38 @@
+
+[
+        {
+            "name": "Sudheer P",
+            "email": "Sudheer@gmail.com",
+            "phone": "9148827639",
+            "role": "computer science",
+            "performance": 0.75
+        },
+        {
+            "name": "Sandeep",
+            "email": "sandeep@gmail.com",
+            "phone": "9100997798",
+            "role": "compuer science",
+            "performance": 0.90
+        },
+        {
+            "name": "Aditya",
+            "email": "aditya@gmail.com",
+            "phone": "9800657341",
+            "role": "law",
+            "performance": 0.87
+        },
+        {
+            "name": "San",
+            "email": "san@gmail.com",
+            "phone": "8935667832",
+            "role": "media",
+            "performance": 0.89
+        },
+        {
+            "name": "bhavana",
+            "email": "bhavana@gmail.com",
+            "phone": "9100241112",
+            "role": "MDS",
+            "performance": 0.76
+        }
+]
