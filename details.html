@@ -1,0 +1,25 @@
+<div>
+ 
+    <div class="container-fluid px-5 py-3">
+        <table class="table table-borderless table-hover container-fluid">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Phone</th>
+                    <th>Department</th>
+                    <th>percentage</th>
+                </tr>
+            </thead>
+            <tbody ng-repeat="std in students">
+                <tr>
+                    <td>{{std.name | uppercase}}</td>
+                    <td>{{std.email}}</td>
+                    <td>{{std.phone}}</td>
+                    <td>{{std.role | lowercase}}</td>
+                    <td>{{std.performance * 100 | number:2}}%</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
